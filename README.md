@@ -1,47 +1,47 @@
- Hi to everyone! 
+﻿﻿ Hi everyone! 
 
 
 ﻿﻿The start.
 
-My name is Pato (or Duck for english speakers I guess), I play Genshin since day one and this is the first time I ('m trying to) do something that can be useful for the community.
+My name is Pato (or Duck for English speakers, I guess). I've been playing Genshin Impact since day one, and this is the first time I’m trying to create something that could be useful for the community.
 
-I started this project called Genshin Gacha Calculator (GGC) today and is totally open for everyone with programming, maths, and programming and maths knowledge to give me a hand.
+I started this project called Genshin Gacha Calculator (GGC) today, and it’s completely open to anyone with programming, math, or a combination of both skills to give me a hand.
 
-The thing is, theorically, this little script I made is good to go right now, but I don't have practical proofs, so there is where you, the reader and player, become a part of this!
+The thing is, theoretically, this little script I made should be good to go, but I don't have practical proof yet. That’s where you, the reader and player, come in!
 
 
-﻿﻿How it works (almost)
+﻿﻿How it (almost) works
 
-Using mathematical things (I'm bad at maths), I made an script (I'm bad at programming), that can give an approximated probabilities for you to know what are the odds to get a 5-star in a banner based in your current pity, official probabilities in game, communitty calculations and more.
+Using some mathematical concepts (I'm bad at math) and writing a script (I'm bad at programming), I’ve made a tool that can give you an approximate probability of pulling a 5-star item on a banner based on your current pity, official in-game probabilities, community calculations, and more.
 
-The script gives you the possibility to use just official info or your particular account history to make an approximation to how much possible is for you to get a 5-star in the next number of wishes you want to know.
+The script allows you to use either just the official data or your personal account history to estimate your odds of getting a 5-star within a certain number of pulls.
 
-This base calculation of probabilities is based on the already known binomial distribution method (Idk, I just learned of this thingy like 7 days ago), but apparently, a growing part of the community is testing the efficiency of this method and the results are pretty impressive, people are being able to predict 5-stars with less than 10 wishes of inexactitude and I think that is better than nothing.
+This base probability calculation is done using the binomial distribution method (which I learned about just 7 days ago). It seems that a growing part of the community is testing this method, and the results are quite impressive. People have been able to predict 5-stars with less than 10 pulls of inaccuracy, which is better than nothing!
 
-So, if you, as a player, are about to pull for some good ol' powerful characters, it would be pretty helpful if first you try to use this little script to predict the results, and then leave a comment here giving me your experience.
+So, if you’re planning to pull for some powerful characters, it would be helpful if you could first try this little script to predict the results, and then leave a comment here sharing your experience.
 
-This is just "V.1.0." so it may have bugs, errors in the code, mistakes in the formula application, so be patient, and if this works we may have something useful for all of us between our hands.
+This is just V.1.0, so it might have bugs, code errors, or formula mistakes. Please be patient, and if this works, we might have something really useful in our hands!
 
 
 Updates.
 
     V.1.0:
-    - Can calculate the probabilities of a 5-star item to appear in your estipulated number of pulls and customized current pity just with official info and knowledge of the probabilities (Character and Weapon banners).
-    - You can introduce your last wishes history to use those probabilities for a customized result (I recommend using Paimon.moe for the oldest history of wishes possible).
-    - For the costumized method you need to give a number of wishes you have done and the number of 5-stars you got on those wishes.
-    - Soft pity and hard pity modifications of the 5-star chance are considerated by the calculation in the script for both, character and weapon banners.
+    - Calculates the probability of getting a 5-star item in the number of pulls you specify, based on your current pity and official probabilities (for both character and weapon banners).
+    - Allows you to input your wish history to make a personalized estimate (I recommend using Paimon.moe for the most accurate wish history).
+    - For the personalized method, you need to provide the number of wishes you’ve made and the number of 5-stars you’ve pulled during those wishes.
+    - The script takes into account soft pity and hard pity changes in 5-star pull chances for both character and weapon banners.
 
 
 ﻿﻿Future planning.
 
-    - The possibility to know what are the probabilities to get a multi 5-star pull in a ten pull.
-    - The possibility to know which of your next ten pulls its the one with the most chances to get you a 5-star (Doubtful addition because this is usually the first ten pull after reaching soft pity).
+    - Add a feature to calculate the probability of pulling multiple 5-star items in a single ten-pull.
+    - Add a feature to predict which of your upcoming ten-pulls has the highest chance of getting you a 5-star (though this is likely to be the first ten-pull after reaching soft pity).
 
 
 ﻿﻿Nerds: this is your moment.
 
-As I mentioned, I'm good for nothing of the things needed for this, I main Itto, so maybe I'm not the guy, but I'm in already.
+As I mentioned, I’m not great at any of the skills required for this project. I main Itto, so maybe I’m not the right guy, but I’m already in!
 
-If you find an optimized way to do the coding or in the other hand, the formula application for the current or next versions of the script, leave a comment or reach me trough https://x.com/patontottv , you and your brain can be incredibly useful for everyone!
+If you find a way to optimize the code or improve the formula application for the current or future versions of the script, feel free to leave a comment or reach out to me on [Twitter](https://x.com/patontottv). You and your brain could be incredibly helpful for everyone!
 
-We may be cooking here, don't miss it!
+We might be onto something here, so don’t miss out!
